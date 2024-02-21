@@ -8,6 +8,6 @@ eu já tinha lido.
 **Foi usado**:
   - javaScript
   - html
-  -css
+  - css
 
   E uma ajuda do CHATGPT e Gemine.
