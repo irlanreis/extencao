@@ -75,5 +75,5 @@ document.addEventListener("pointerdown", (e) => {
 // Adiciona um event listener para o evento contextmenu (botão direito do mouse)
 document.addEventListener("contextmenu", (e) => {
   e.preventDefault(); // Impede o menu de contexto padrão
-  ctx.clearRect(0, 0, canvas.width, canvas.height); // Limpa todo o conteúdo do canvas
+  ctx.clearRect(0, 0, canvas.width, canvas.height); // Limpa todo o conteúdo do canvas!!
 });
